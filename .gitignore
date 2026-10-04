@@ -136,3 +136,4 @@ dist
 .tanstack
 .nitro
 storybook-static
+.vitest/
